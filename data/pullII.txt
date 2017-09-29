@@ -1,0 +1,4 @@
+11/09
+E 2x8.23 tir lat 4x8.41
+E 2x8.9 tir bi 4x8.14
+E 2x8.18 pulldown 4x8.32
