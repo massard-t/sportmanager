@@ -1,0 +1,4 @@
+25/09
+E 2x8.23 tir lat 4x8.41..45
+E 2x8.18 pulldownW 4x8.32
+E 2x8.11 poulie bi 4x8.27
