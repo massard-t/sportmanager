@@ -18,11 +18,11 @@ def get_workout_type(fname):
     for workout_type in TYPES:
         if workout_type in fname:
             content = open(fname, 'r').read().split('\n')
-            print(content)
+            workout_nbr = fname.replace(workout_type, '')
             workout = Workout(
                 w_type=workout_type,
                 w_day=content[0],
-                w_name=workout_type+fname.replace(workout_type, ''),
+                w_name=workout_type+workout_nbr,
                 w_data='\n'.join(content[1:])
                 )
             return workout
@@ -33,8 +33,8 @@ def find_workouts(directory='./data/'):
 
     (workout_type, workout_file)
     """
-    for fname in os.listdir(directory):
-        print(get_workout_type(directory+fname))
+    workouts = [get_workout_type(directory+fname) for fname in os.listdir(directory)]
+    print(workouts)
 
 
 def main():
