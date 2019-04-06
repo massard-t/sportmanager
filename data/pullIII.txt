@@ -1,4 +1,0 @@
-19/09
-E 2x8.14 dev hori 4x8.36.41..45
-E 2x8.14 dev epau 4x8.23
-E 2x8.9 Poulie 4x8.23.27

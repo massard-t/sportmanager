@@ -1,5 +1,0 @@
-05/09
-E 2x10.14 dev hori 4x8.32.36
-E 2x8.14 ext tri 4x8.18..14
-E 2x8.14 dev epaules 4x8.23.18
-Dips 1x7.14

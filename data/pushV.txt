@@ -1,5 +1,0 @@
-29/09
-E 2x8.14 dev hori 4x8.45
-E 2x8.11 poulie tri 4x8.27..32.36
-E 2x8.14 dev epau 4x8.23
-E 2x8.18 pec fly 4x8.32
